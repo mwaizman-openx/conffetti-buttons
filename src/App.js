@@ -1,14 +1,5 @@
 import React from 'react';
 import './style.css';
-import * as React from 'react';
-import './style.css';
-
-import gsap from 'gsap';
-import Physics2DPlugin from 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/Physics2DPlugin3.min.js';
-
-gsap.registerPlugin(Physics2DPlugin);
-
-import React from 'react';
 import gsap from 'gsap';
 import Physics2DPlugin from 'gsap/Physics2DPlugin';
 
